@@ -1,5 +1,5 @@
 const containerEl = document.querySelector(".container");
-const careers = ["Youtuber", "Web Developer", "Freelncer", "Instructor"];
+const careers = ["Youtuber", "Web Developer", "Freelancer", "Instructor"];
 let careerIndex = 0;
 let characterIndex = 0;
 updateText();
